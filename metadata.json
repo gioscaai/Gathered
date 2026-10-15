@@ -1,0 +1,10 @@
+{
+  "name": "VoxStream - Traduzione e Trascrizione Simultanea",
+  "description": "Applicazione web full-stack per la traduzione e trascrizione simultanea in tempo reale durante le riunioni, ottimizzata per Gemini con sintesi vocale (TTS) in cuffia e design ispirato a Shazam.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
